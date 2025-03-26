@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "user": "Bret",
+    "pass": "pw123",
+    "role": "admin"
+  },
+  {
+    "id": 7,
+    "user": "Elwyn.Skiles",
+    "pass": "pw123",
+    "role": "user"
+  }
+]
